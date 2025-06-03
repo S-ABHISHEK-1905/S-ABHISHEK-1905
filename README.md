@@ -4,7 +4,6 @@
 -     - Linkedin : https://www.linkedin.com/in/abhishek-s-b887491b2/
 -     - Discord : HUYEE_ASR_12#1329
 -     - Gmail : abhidhanaml@gmail.com
--     - Outlook : abhidhanaml@outlook.com
 
 <!---
 S-ABHISHEK-1905/S-ABHISHEK-1905 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
